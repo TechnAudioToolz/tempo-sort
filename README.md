@@ -12,6 +12,8 @@ Pick a music folder. Tempo Sort finds the BPM of every track in it and in all it
 
 **[Download the latest DMG](https://github.com/TechnAudioToolz/tempo-sort/releases/latest)**: open it and drag Tempo Sort onto Applications.
 
+Also on **[Gumroad](https://kevburns.gumroad.com/l/temposort)**: pay what you want, $0 is fine. Tips keep new tools coming.
+
 Needs macOS 14 Sonoma or newer, on Apple Silicon or Intel. Works fully offline.
 
 The app isn't registered with Apple yet, so the first time macOS may refuse to open it. Go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**. You only need to do this once.
